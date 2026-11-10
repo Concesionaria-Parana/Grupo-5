@@ -1,6 +1,7 @@
 # Grupo-5
-Basede datos: Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64)   Sep 24 2019 13:48:23   Copyright (C) 2019 Microsoft Corporation  Express Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 19045: ) (Hypervisor) 
+Basede datos: Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64)   Sep 24 2019 13:48:23   Copyright (C) 2019 Microsoft Corporation  Express Edition (64-bit) on Windows 10 Pro 10.0 
 
+Instalar Extension: vscode-pdf
 
 PLANIFICACION DE CATEDRA - BASES DE DATOS I (TUP 2026)
 DIVISION DE UNIDADES POR EXAMEN PARCIAL
@@ -51,6 +52,9 @@ y manejo de valores NULL.
 ______________________________________________________________
 
 TRABAJO PRACTICO INTEGRADOR
+
+### 📄 Enunciado del Trabajo Práctico
+[📥 Ver / Descargar PDF del TPI](./TPI_BD_2026.pdf)
 
 FLUJO PROFESIONAL CON GIT Y GITHUB PARA EL TPI DE BD I
 
@@ -107,8 +111,8 @@ PASO A PASO DESDE QUE RECIBEN LA INVITACIÓN AL REPOSITORIO
 - Abren el correo de invitación a la organización `Concesionaria-Parana` o al repositorio `Grupo-5`.
 - Hacen clic en el botón **Join organization** o **Accept invitation**.
 
-2. CREAR LA CARPETA ‘’workSpace’ EN EL DSICO C
-CRAER EN EL DISCO: C/ (SUELTA), LA CARPETA (‘wordSpace’)
+2. CREAR LA CARPETA ‘workSpace’ EN EL DISCO C
+CREAR EN EL DISCO: C/ (SUELTA), LA CARPETA (‘wordSpace’)
 Abrir Git Bash
 Escribir dentro cd “/c/workSpace” o cd c:/workSpace
 O
