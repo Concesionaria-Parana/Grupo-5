@@ -4,6 +4,7 @@ Basede datos: Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64)   Sep 24 2019 
 Instalar Extension: vscode-pdf
 
 
+Instalar Extension: vscode-pdf
 
 PLANIFICACION DE CATEDRA - BASES DE DATOS I (TUP 2026)
 DIVISION DE UNIDADES POR EXAMEN PARCIAL
@@ -55,10 +56,9 @@ ______________________________________________________________
 
 TRABAJO PRACTICO INTEGRADOR
 
-## Documentación del Proyecto
-<a href="./TPI_BD_2026.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/VER_ENUNCIADO-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Ver PDF"/>
-</a>
+### 📄 Enunciado del Trabajo Práctico
+[📥 Ver / Descargar PDF del TPI](./TPI_BD_2026.pdf)
+
 FLUJO PROFESIONAL CON GIT Y GITHUB PARA EL TPI DE BD I
 
 
