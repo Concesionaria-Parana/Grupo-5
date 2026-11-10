@@ -54,7 +54,7 @@ ______________________________________________________________
 TRABAJO PRACTICO INTEGRADOR
 
 ### 📄 Enunciado del Trabajo Práctico
-[📥 Ver / Descargar PDF del TPI](./TPI_BD_2026.pdf)
+[Ver / Descargar PDF del TPI](./TPI_BD_2026.pdf)
 
 FLUJO PROFESIONAL CON GIT Y GITHUB PARA EL TPI DE BD I
 
