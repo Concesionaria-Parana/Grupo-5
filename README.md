@@ -51,9 +51,7 @@ y manejo de valores NULL.
 ______________________________________________________________
 
 TRABAJO PRACTICO INTEGRADOR
-<a href="./TPI_BD_2026.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Enunciado-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Ver PDF"/>
-</a>
+[![Ver Enunciado PDF](https://img.shields.io/badge/ENUNCIADO-TPI_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./TPI_BD_2026.pdf)
 FLUJO PROFESIONAL CON GIT Y GITHUB PARA EL TPI DE BD I
 
 
