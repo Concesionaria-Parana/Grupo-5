@@ -3,6 +3,8 @@ Basede datos: Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64)   Sep 24 2019 
 
 Instalar Extension: vscode-pdf
 
+Esto es una prueba 
+
 PLANIFICACION DE CATEDRA - BASES DE DATOS I (TUP 2026)
 DIVISION DE UNIDADES POR EXAMEN PARCIAL
 
